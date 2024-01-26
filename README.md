@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Björn Geerken</h1>
 <h3 align="center">A passionate Full Stack developer from Stuttgart - Germany.</h3>
 
-- 👨‍💻 All of my projects are available at [happycode.e](happycode.e)
+- 👨‍💻 Many of my private projects are available at [happycode.me](happycode.me)
 
 - 📫 How to reach me **happycode@mail.de**
 
