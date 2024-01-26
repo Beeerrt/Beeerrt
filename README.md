@@ -1,7 +1,7 @@
 
-<p style="padding-top: 30px;" align="center">
-  <img style="border-radius:50%" height="auto" width="200" src="./bjoern_geerken.jpg" />
-</p>
+<div style="display: flex; padding-top: 30px;">
+  <img style="border-radius:50%; margin-right: auto; margin-left: auto; width: 200px; height: 200px; object-fit: cover;" src="https://media.licdn.com/dms/image/D4E03AQGJ4exqSWhJYw/profile-displayphoto-shrink_100_100/0/1704732050976?e=1711584000&v=beta&t=ncR9CEltxWbKdFReWktGuCaT4ZGgnNvpmLBOWKVtpX8" />
+  </div>
 <h1 align="center">Hi 👋, I'm Björn Geerken</h1>
 <h3 align="center">A passionate Full Stack developer from Stuttgart - Germany.</h3>
 
